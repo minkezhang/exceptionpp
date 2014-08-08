@@ -1,0 +1,3 @@
+[submodule "external/stacktrace"]
+	path = external/stacktrace
+	url = https://github.com/cripplet/stacktrace.git
